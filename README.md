@@ -1,49 +1,54 @@
 # NoPixel Bank Hack Minigame
-An attempt to recreate as closely as possible the bank hack minigame on the whitelisted GTA server NoPixel.  
-Feel free to 🌟**star**🌟 the project if you like it.  
-Click the thumbnail bellow to try it out!  
 
+Upaya untuk meniru semirip mungkin minigame hack bank yang ada di server GTA whitelist **NoPixel**.
+Kalau kamu suka dengan project ini, jangan lupa 🌟 **kasih star** 🌟 ya.
+Klik thumbnail di bawah untuk langsung mencobanya!
 
 [![](thumbnail.jpg)](https://jesper-hustad.github.io/NoPixel-minigame/index)
 
+## Ada yang bermasalah?
 
-## Is something wrong?
-If there is some part that is missing or something that isn't working right make an issue here on GitHub it will be looked at.
+Kalau ada bagian yang kurang, error, atau terasa tidak sesuai, silakan buat **issue di GitHub**. Nanti pasti dicek.
 
-## New! Language support  
+## Baru! Dukungan Bahasa 🌍
 
-After many requests language support has finally been added.  
-The first translations where made by google translate so may not all be perfect.  
-If you find that there is a mistake in your language please [read these instructions](./language-instructions/README.md) on how to fix it. 
-
+Setelah banyak permintaan, akhirnya **fitur multi-bahasa** ditambahkan.
+Terjemahan awal masih pakai Google Translate, jadi kemungkinan belum 100% akurat.
+Kalau kamu nemu terjemahan yang salah di bahasamu, silakan baca panduan ini untuk memperbaikinya:
+[Klik di sini](./language-instructions/README.md)
 
 [![](language-instructions/flags-report.png)](./language-instructions/README.md)
 
-## Upcoming features
-**Randomly alternating text:**  
-Thanks to qwewas123 for this pull request.  
-Will be implemented with a toggle button for those training on older versions.  
+## Fitur yang Akan Datang
 
-**Better colorblind colors:**  
-It seems the NoPixel version updated it's colors. Will add a toggle button for this also.
+**Teks acak bergantian**
+Terima kasih untuk qwewas123 atas pull request-nya.
+Nantinya akan ada tombol toggle buat yang latihan pakai versi lama.
 
+**Warna ramah buta warna yang lebih baik**
+Sepertinya versi NoPixel terbaru sudah update warna.
+Fitur ini juga akan ditambahkan dengan opsi toggle.
 
-## Supported browsers
-Tested in Chrome, Safari, and Firefox.
+## Browser yang Didukung
 
-## Added features
-- Spacebar shortcut to try again
-- Customize time to solve puzzle with a slider.
-- Customize puzzle squares
-- Longer ticking metronome for longer puzzles.
-- Hint text to explain what in your answer was wrong.
-- Explenation page showing how to solve the puzzles.
-- Shortened loading time.
-- Try again button
+Sudah dites di **Chrome, Safari, dan Firefox**.
 
-## FiveM version  
-You can use this on your FiveM server!  
-Check out the README in the fivem-script folder [here](/fivem-script/README.md).
+## Fitur yang Sudah Ditambahkan
 
-## Before creating a PR
-Currently don't want to add many more features, so just creature comforts and cutting down on the code size.
+* Shortcut **spasi** untuk coba lagi
+* Slider untuk mengatur waktu pengerjaan puzzle
+* Bisa mengatur jumlah kotak puzzle
+* Metronom ticking lebih lama untuk puzzle berdurasi panjang
+* Teks petunjuk yang menjelaskan kesalahan jawaban
+* Halaman penjelasan cara menyelesaikan puzzle
+* Waktu loading lebih singkat
+* Tombol **Try Again**
+
+## Versi FiveM
+
+Sudah Ada Di Mugen Arena
+
+## Sebelum Membuat Pull Request
+
+Untuk sekarang, belum ingin menambahkan banyak fitur baru.
+PR lebih difokuskan ke **kenyamanan pengguna** dan **meringkas kode**.
