@@ -23,7 +23,7 @@ Panduan ini akan membantu kamu melakukan perubahan dan mengirimkannya ke website
    👉 [https://github.com/join](https://github.com/join)
 
 2. Buka file bahasa di `src/language.js`, atau langsung lewat link ini:
-   👉 [https://github.com/Jesper-Hustad/NoPixel-minigame/blob/main/src/language.js](https://github.com/Jesper-Hustad/NoPixel-minigame/blob/main/src/language.js)
+   👉 [https://github.com/BimzDnu30/Nopixel-Minigame-Fleeca/blob/main/src/language.js](https://github.com/BimzDnu30/Nopixel-Minigame-Fleeca/blob/main/src/language.js)
 
 3. Klik tombol **Edit** di pojok kanan atas (lihat gambar di bawah)
 
