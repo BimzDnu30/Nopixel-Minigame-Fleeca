@@ -4,7 +4,7 @@ Upaya untuk meniru semirip mungkin minigame hack bank yang ada di server GTA whi
 Kalau kamu suka dengan project ini, jangan lupa 🌟 **kasih star** 🌟 ya.
 Klik thumbnail di bawah untuk langsung mencobanya!
 
-[![](thumbnail.jpg)](https://jesper-hustad.github.io/NoPixel-minigame/index)
+[![](thumbnail.jpg)](https://bimzdnu30.github.io/Nopixel-Minigame-Fleeca/index)
 
 ## Ada yang bermasalah?
 
