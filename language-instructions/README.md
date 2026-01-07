@@ -1,42 +1,69 @@
-# How to fix or add a language 
+# Cara Memperbaiki atau Menambahkan Bahasa
 
-Language support was recently added.  
-Preliminary implementation was made using Google Translate.  
-It is therefore expected that there will be some mistakes and possible improvements to be made.  
-That is where you come in!
+Fitur **dukungan bahasa** baru saja ditambahkan.
+Implementasi awalnya masih menggunakan **Google Translate**, jadi wajar kalau masih ada kesalahan atau terjemahan yang bisa diperbaiki.
+Di sinilah **kamu dibutuhkan**!
 
-![](flags.png)  
-*Currently supported languages*
+![](flags.png)
+*Bahasa yang saat ini sudah didukung*
 
-## How to edit language file
+## Cara Mengedit File Bahasa
 
-All of the language data is stored in the file `language.js`.  
-Any language added or edited there will automatically be update on the site.  
+Semua data bahasa disimpan di file `language.js`.
+Bahasa yang ditambahkan atau diperbaiki di file ini akan **otomatis ter-update di website**.
 
-If there is something you want to fix you can edit the file and create a pull request. Your changes can then be reviews and accepted into the official site version.
+Kalau ada terjemahan yang ingin kamu perbaiki, cukup edit file tersebut lalu buat **pull request**.
+Perubahanmu akan direview dan bisa dimasukkan ke versi resmi website.
 
-## Instructions
+## Langkah-langkah
 
-This will guide you trough making the changes and how to submit these changes to the official site.
+Panduan ini akan membantu kamu melakukan perubahan dan mengirimkannya ke website resmi.
 
-1. First you will need a GitHub account if you don't have one already, you can do that [here](https://github.com/join).
+1. Pertama, pastikan kamu punya akun GitHub. Kalau belum, daftar dulu di sini:
+   👉 [https://github.com/join](https://github.com/join)
 
-2. Go to the language file located at `src/language.js`, or use this [link](https://github.com/Jesper-Hustad/NoPixel-minigame/blob/main/src/language.js).
+2. Buka file bahasa di `src/language.js`, atau langsung lewat link ini:
+   👉 [https://github.com/Jesper-Hustad/NoPixel-minigame/blob/main/src/language.js](https://github.com/Jesper-Hustad/NoPixel-minigame/blob/main/src/language.js)
 
-3. Click the edit button in the top right corner (see image)
-<img src="edit-button.png" width=80%>
+3. Klik tombol **Edit** di pojok kanan atas (lihat gambar di bawah)
 
-4. **Make changes:** This is the fun part. Fix spelling mistakes or add a language. Use the official two letter country code which you can find [here](https://flagicons.lipis.dev/) when adding a language.
+   <img src="edit-button.png" width=80%>
 
-5. Propose the changes by adding a message and clicking the green **`Propose changes`** button
-<img src="propose-changes.png" width=80%>
+4. **Lakukan perubahan**
+   Nah, ini bagian serunya 😄
+   Kamu bisa:
 
-6. Click the green **`Create pull request`** button. Your changes will now be officially up for review. Once a maintainer has looked over it they can approve your pull request and the changes will be implemented into the site (and eventually the FiveM mod).
+   * Memperbaiki typo atau terjemahan
+   * Menambahkan bahasa baru
 
-## If you get lost
-GitHub can be a bit confusing for new users. If something goes wrong don't panic. You can [watch this video](https://youtu.be/rgbCcBNZcdQ?t=56) on how to create a simple GitHub Pull Request (ignore the command line portion). Do not worry. There is no way you can break the website by making your changes. 
+   Saat menambahkan bahasa, gunakan **kode negara dua huruf resmi**, yang bisa kamu cek di sini:
+   👉 [https://flagicons.lipis.dev/](https://flagicons.lipis.dev/)
 
-## Language statistics
-According to google analytics these are the most popular languages of the current users. This guided the decision in implement the initial languages. This is subject to change. Do not hesitate to create a GitHub issue if you wish your language to be supported. 
+5. Ajukan perubahan dengan menulis pesan singkat, lalu klik tombol hijau **`Propose changes`**
+
+   <img src="propose-changes.png" width=80%>
+
+6. Klik tombol hijau **`Create pull request`**
+   Sekarang perubahanmu sudah masuk ke tahap review.
+   Setelah dicek oleh maintainer dan disetujui, perubahan akan langsung diterapkan di website (dan nantinya juga di mod FiveM).
+
+## Kalau Bingung atau Nyasar 😅
+
+GitHub memang bisa agak membingungkan buat pengguna baru.
+Kalau ada yang terasa ribet atau salah langkah, **jangan panik**.
+
+Kamu bisa nonton video ini tentang cara membuat **Pull Request sederhana di GitHub**
+(abaikan bagian command line):
+👉 [https://youtu.be/rgbCcBNZcdQ?t=56](https://youtu.be/rgbCcBNZcdQ?t=56)
+
+Tenang aja, **nggak ada risiko merusak website** cuma karena kamu edit terjemahan.
+
+## Statistik Bahasa
+
+Berdasarkan data Google Analytics, berikut adalah bahasa yang paling sering digunakan oleh user saat ini.
+Data inilah yang jadi acuan untuk menentukan bahasa awal yang didukung.
+Ke depannya tentu bisa berubah.
+
+Kalau kamu ingin bahasamu didukung, **jangan ragu buat issue di GitHub** ya.
 
 <img src="language-analytics.png" width=60%>
