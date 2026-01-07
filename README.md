@@ -19,16 +19,6 @@ Kalau kamu nemu terjemahan yang salah di bahasamu, silakan baca panduan ini untu
 
 [![](language-instructions/flags-report.png)](./language-instructions/README.md)
 
-## Fitur yang Akan Datang
-
-**Teks acak bergantian**
-Terima kasih untuk qwewas123 atas pull request-nya.
-Nantinya akan ada tombol toggle buat yang latihan pakai versi lama.
-
-**Warna ramah buta warna yang lebih baik**
-Sepertinya versi NoPixel terbaru sudah update warna.
-Fitur ini juga akan ditambahkan dengan opsi toggle.
-
 ## Browser yang Didukung
 
 Sudah dites di **Chrome, Safari, dan Firefox**.
